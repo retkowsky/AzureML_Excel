@@ -7,3 +7,8 @@ The Excel file will show how to call the deployed model from Excel using a simpl
 These materials are for demo usage purpose.
 
 Thanks a lot to Alan Weaver (alain.weaver@microsoft.com) who is the main contributor.
+
+Azure ML Service:
+https://azure.microsoft.com/en-us/services/machine-learning-service/
+
+Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/
