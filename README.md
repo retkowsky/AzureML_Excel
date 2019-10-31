@@ -8,10 +8,8 @@ These materials are for demo usage purpose.
 
 Credits:
 Thanks a lot to Alan Weaver (alain.weaver@microsoft.com) who is the main contributor.
-
 <br>
 Azure ML Service:
 https://azure.microsoft.com/en-us/services/machine-learning-service/
-
 <br>
 Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/
