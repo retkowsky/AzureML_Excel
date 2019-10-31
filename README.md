@@ -1,4 +1,4 @@
-# AzureML_Excel
+# Excel integration with Azure ML service
 How to consume Azure ML service deployed model from Excel?
 
 You can find here a Python notebook that produce a ML model and deploy it into ACI (Azure Container Instance).
